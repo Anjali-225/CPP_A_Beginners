@@ -1,0 +1,17 @@
+_GLIBCXX_OS_DEFINES	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32\bits\os_defines.h	/^#  define _GLIBCXX_OS_DEFINES$/;"	macro	line:31
+__GTHREAD_HIDE_WIN32API	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32\bits\os_defines.h	/^# define __GTHREAD_HIDE_WIN32API 1$/;"	macro	line:39
+NOMINMAX	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32\bits\os_defines.h	/^#undef NOMINMAX$/;"	macro	line:44
+NOMINMAX	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32\bits\os_defines.h	/^#define NOMINMAX 1$/;"	macro	line:45
+__USE_MINGW_ANSI_STDIO	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32\bits\os_defines.h	/^#undef __USE_MINGW_ANSI_STDIO$/;"	macro	line:50
+__USE_MINGW_ANSI_STDIO	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32\bits\os_defines.h	/^#define __USE_MINGW_ANSI_STDIO 1$/;"	macro	line:51
+_GLIBCXX_PSEUDO_VISIBILITY_default	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32\bits\os_defines.h	/^#define _GLIBCXX_PSEUDO_VISIBILITY_default __attribute__ ((__dllimport__))$/;"	macro	line:54
+_GLIBCXX_PSEUDO_VISIBILITY_default	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32\bits\os_defines.h	/^#define _GLIBCXX_PSEUDO_VISIBILITY_default$/;"	macro	line:56
+_GLIBCXX_PSEUDO_VISIBILITY_hidden	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32\bits\os_defines.h	/^#define _GLIBCXX_PSEUDO_VISIBILITY_hidden$/;"	macro	line:58
+_GLIBCXX_PSEUDO_VISIBILITY	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32\bits\os_defines.h	/^#define _GLIBCXX_PSEUDO_VISIBILITY(V) _GLIBCXX_PSEUDO_VISIBILITY_ ## V$/;"	macro	line:60
+_GLIBCXX_HAVE_DOS_BASED_FILESYSTEM	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32\bits\os_defines.h	/^#define _GLIBCXX_HAVE_DOS_BASED_FILESYSTEM 1$/;"	macro	line:63
+_GLIBCXX_NO_IOCTL	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32\bits\os_defines.h	/^#define _GLIBCXX_NO_IOCTL 1$/;"	macro	line:68
+_GLIBCXX_CDTOR_CALLABI	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32\bits\os_defines.h	/^#define _GLIBCXX_CDTOR_CALLABI __thiscall$/;"	macro	line:74
+_GLIBCXX_LLP64	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32\bits\os_defines.h	/^#define _GLIBCXX_LLP64 1$/;"	macro	line:78
+_GLIBCXX_USE_WEAK_REF	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32\bits\os_defines.h	/^#define _GLIBCXX_USE_WEAK_REF 0$/;"	macro	line:80
+_GLIBCXX_THREAD_ATEXIT_WIN32	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32\bits\os_defines.h	/^#define _GLIBCXX_THREAD_ATEXIT_WIN32 1$/;"	macro	line:86
+_GTHREAD_USE_MUTEX_INIT_FUNC	C:\Program Files\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32\bits\os_defines.h	/^#define _GTHREAD_USE_MUTEX_INIT_FUNC 1$/;"	macro	line:89
