@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Challenges" Database="" Version="10000">
+  <Project Name="Letter_Pyramid_Solution" Path="Letter_Pyramid/Letter_Pyramid.project" Active="No"/>
+  <Project Name="Letter_Pyramid_2" Path="Letter_Pyramid_2/Letter_Pyramid_2.project" Active="No"/>
+  <Project Name="Letter_Pyramid_Final" Path="Letter_Pyramid_Final/Letter_Pyramid_Final.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Letter_Pyramid_Solution" ConfigName="Debug"/>
+      <Project Name="Letter_Pyramid_2" ConfigName="Debug"/>
+      <Project Name="Letter_Pyramid_Final" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Letter_Pyramid_Solution" ConfigName="Release"/>
+      <Project Name="Letter_Pyramid_2" ConfigName="Release"/>
+      <Project Name="Letter_Pyramid_Final" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
