@@ -1,12 +1,12 @@
-#ifndef OTHER_CLASS_H
-#define OTHER_CLASS_H
+#ifndef _OTHER_CLASS_H_
+#define _OTHER_CLASS_H_
+
+class Player;
 
 class Other_class
 {
 public:
-    Other_class();
-    ~Other_class();
-
+    void display_player(Player &p);
 };
 
-#endif // OTHER_CLASS_H
+#endif // _OTHER_CLASS_H_

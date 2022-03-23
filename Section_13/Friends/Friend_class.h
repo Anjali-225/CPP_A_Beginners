@@ -1,12 +1,13 @@
-#ifndef FRIEND_CLASS_H
-#define FRIEND_CLASS_H
+#ifndef _FRIEND_CLASS_H_
+#define _FRIEND_CLASS_H_
+#include <string>
+#include "Player.h"
 
 class Friend_class
 {
 public:
-    Friend_class();
-    ~Friend_class();
-
+    void set_hero_name(Player &p, std::string name);
+    void display_player(Player &p);
 };
 
-#endif // FRIEND_CLASS_H
+#endif // _FRIEND_CLASS_H_

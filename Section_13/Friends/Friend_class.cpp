@@ -1,10 +1,14 @@
+#include <iostream>
 #include "Friend_class.h"
 
-Friend_class::Friend_class()
-{
+class Player;
+void Friend_class::set_hero_name(Player &p, std::string name) {
+    p.name = name;
 }
 
-Friend_class::~Friend_class()
-{
+void Friend_class::display_player(Player &p) {
+      std::cout << p.name << std::endl;
+      std::cout << p.health << std::endl;
+      std::cout << p.xp << std::endl; 
 }
 
