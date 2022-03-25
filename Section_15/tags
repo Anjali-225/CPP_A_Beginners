@@ -1,0 +1,4 @@
+ACCOUNT_H	C:\Users\anjali\Desktop\CPPProjects\CPP_LP_MY_CODE\Section_15\RedefiningBaseClassMethods\Account.h	/^#define ACCOUNT_H$/;"	macro	line:2
+Account	C:\Users\anjali\Desktop\CPPProjects\CPP_LP_MY_CODE\Section_15\RedefiningBaseClassMethods\Account.h	/^class Account$/;"	class	line:4
+Account	C:\Users\anjali\Desktop\CPPProjects\CPP_LP_MY_CODE\Section_15\RedefiningBaseClassMethods\Account.h	/^    Account();$/;"	prototype	line:7	class:Account	access:public	signature:()
+~Account	C:\Users\anjali\Desktop\CPPProjects\CPP_LP_MY_CODE\Section_15\RedefiningBaseClassMethods\Account.h	/^    ~Account();$/;"	prototype	line:8	class:Account	access:public	signature:()
