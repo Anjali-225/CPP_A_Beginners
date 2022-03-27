@@ -1,12 +1,12 @@
-#ifndef ACCOUNT_UTIL_H
-#define ACCOUNT_UTIL_H
+#ifndef _ACCOUNT_UTIL_H_
+#define _ACCOUNT_UTIL_H_
+#include <vector>
+#include "Account.h"
 
-class Account_Util
-{
-public:
-    Account_Util();
-    ~Account_Util();
+// Utility helper functions for Account * class
 
-};
+void display(const std::vector<Account *> &accounts);
+void deposit(std::vector<Account *> &accounts, double amount);
+void withdraw(std::vector<Account *> &accounts, double amount);
 
-#endif // ACCOUNT_UTIL_H
+#endif
