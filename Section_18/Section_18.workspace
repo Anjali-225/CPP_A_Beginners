@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section_18" Database="" Version="10000">
+  <Project Name="CatchCPPExceptions" Path="CatchCPPExceptions/CatchCPPExceptions.project" Active="Yes"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project"/>
+  <Project Name="StackUnwinding" Path="StackUnwinding/StackUnwinding.project"/>
+  <Project Name="MPGRethrow" Path="MPGRethrow/MPGRethrow.project"/>
+  <Project Name="MPGFunctionMultipleExceptions" Path="MPGFunctionMultipleExceptions/MPGFunctionMultipleExceptions.project"/>
+  <Project Name="MPGFunctionExceptionInheritance" Path="MPGFunctionExceptionInheritance/MPGFunctionExceptionInheritance.project"/>
+  <Project Name="MilesPerGallonFunctionExceptionClasses" Path="MilesPerGallonFunctionExceptionClasses/MilesPerGallonFunctionExceptionClasses.project"/>
+  <Project Name="MilesPerGallonFunction" Path="MilesPerGallonFunction/MilesPerGallonFunction.project"/>
+  <Project Name="DivideByZeroExceptionClasses" Path="DivideByZeroExceptionClasses/DivideByZeroExceptionClasses.project"/>
+  <Project Name="DivideByZeroException" Path="DivideByZeroException/DivideByZeroException.project"/>
+  <Project Name="DivideByZero" Path="DivideByZero/DivideByZero.project"/>
+  <Project Name="ConstructorException" Path="ConstructorException/ConstructorException.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="CatchCPPExceptions" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="StackUnwinding" ConfigName="Debug"/>
+      <Project Name="MPGRethrow" ConfigName="Debug"/>
+      <Project Name="MPGFunctionMultipleExceptions" ConfigName="Debug"/>
+      <Project Name="MPGFunctionExceptionInheritance" ConfigName="Debug"/>
+      <Project Name="MilesPerGallonFunctionExceptionClasses" ConfigName="Debug"/>
+      <Project Name="MilesPerGallonFunction" ConfigName="Debug"/>
+      <Project Name="DivideByZeroExceptionClasses" ConfigName="Debug"/>
+      <Project Name="DivideByZeroException" ConfigName="Debug"/>
+      <Project Name="DivideByZero" ConfigName="Debug"/>
+      <Project Name="ConstructorException" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="CatchCPPExceptions" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="StackUnwinding" ConfigName="Release"/>
+      <Project Name="MPGRethrow" ConfigName="Release"/>
+      <Project Name="MPGFunctionMultipleExceptions" ConfigName="Release"/>
+      <Project Name="MPGFunctionExceptionInheritance" ConfigName="Release"/>
+      <Project Name="MilesPerGallonFunctionExceptionClasses" ConfigName="Release"/>
+      <Project Name="MilesPerGallonFunction" ConfigName="Release"/>
+      <Project Name="DivideByZeroExceptionClasses" ConfigName="Release"/>
+      <Project Name="DivideByZeroException" ConfigName="Release"/>
+      <Project Name="DivideByZero" ConfigName="Release"/>
+      <Project Name="ConstructorException" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
