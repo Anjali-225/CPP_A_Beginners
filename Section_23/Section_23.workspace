@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section_23" Database="" Version="10000">
+  <Project Name="ScopedEnums" Path="ScopedEnums/ScopedEnums.project" Active="No"/>
+  <Project Name="UnscopedEnums" Path="UnscopedEnums/UnscopedEnums.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="ScopedEnums" ConfigName="Debug"/>
+      <Project Name="UnscopedEnums" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="ScopedEnums" ConfigName="Release"/>
+      <Project Name="UnscopedEnums" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
